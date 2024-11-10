@@ -1,0 +1,19 @@
+{
+  "name": "BABYDOGE on BitRock #15",
+  "description": "BABYDOGE on Bitrock Presale Collection",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "a2ed503b78c553d512309a292513a6f5120347cd",
+  "edition": 15,
+  "date": 1730667896976,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "LosMuertos1"
+    },
+    {
+      "trait_type": "babydoge",
+      "value": "BabyDoge16"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

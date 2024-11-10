@@ -1,0 +1,675 @@
+Trait type: background
+{
+  trait: 'LosMuertos1',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos10',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos11',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos12',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos13',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos14',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos15',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'LosMuertos16',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos17',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'LosMuertos18',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos19',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos2',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos20',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos3',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos4',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos5',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos6',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos7',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos8',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos9',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+
+Trait type: babydoge
+{
+  trait: 'BabyDoge1',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge10',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge11',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge12',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'BabyDoge13',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge14',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge15',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge16',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge17',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge18',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge19',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge2',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge20',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge3',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge4',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge5',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge6',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge7',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge8',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge9',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+
+PS C:\Users\EHvi8\OneDrive\Desktop\1. My Web Projects 101\1. NFT Crypto Metaverse\1. Wall Street Memes 2.0\3. FOXY NFT Project\hashlips_art_engine-main> npm run generate 
+
+> hashlips_art_engine@1.1.1 generate
+> node index.js
+
+(node:9340) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Created edition: 1, with DNA: 9ab3337174209f74d09d0ef6844c286215dcaceb
+Created edition: 2, with DNA: af7b6efd9095600a582471560f3adae5d8d31b8d
+Created edition: 3, with DNA: 75af9341d860d2d4c438b4e3ecbd181fca57c533
+Created edition: 4, with DNA: 5a5089f26f23e64859196e6a96015886804beeb5
+Created edition: 5, with DNA: e47c12cc86514a09c595f87a3987d90a5a54af56
+Created edition: 6, with DNA: 81eaf7247e8869027a5a962e612a7f52e6e673d4
+Created edition: 7, with DNA: aebc4c543b446a150134f7577c12a179c4302ab6
+Created edition: 8, with DNA: bbf14fb1df239ce361184fb83b3f04d47323bc74
+Created edition: 9, with DNA: 68dbd4c778fd22ea2ed546ff04cb84cc49abc8de
+Created edition: 10, with DNA: ea8a08d82128d9b95bdd2758778db114977feba3
+Created edition: 11, with DNA: 787887b77326c48f81f39348690990635e4862cd
+Created edition: 12, with DNA: b16c99dca5af2bedd314d16d12a2ae7afa0e6e26
+Created edition: 13, with DNA: e7a69fa4dd6ab0c5ee80dc1d0159a4572e6a9f1a
+Created edition: 14, with DNA: 462ba6cee5d7a73ac0e0043306b4402237787ef6
+Created edition: 15, with DNA: 3bd15fd82fd5a9b317c5e6b8bc17ba3b127a437e
+Created edition: 16, with DNA: 0094a716788bb2015f342e1bd6c3dcad705f80b5
+Created edition: 17, with DNA: 4cd791980d5fb87fd4db9b546e3703db785b36eb
+Created edition: 18, with DNA: 106fc884ffbca91d55d3783e22237f75ef77f31a
+Created edition: 19, with DNA: 08a507bdbceaede5e90d9afcd96f9d3a3a232735
+Created edition: 20, with DNA: 0b941eb2f1dfaa825dab9623510e86e900db622c
+PS C:\Users\EHvi8\OneDrive\Desktop\1. My Web Projects 101\1. NFT Crypto Metaverse\1. Wall Street Memes 2.0\3. FOXY NFT Project\hashlips_art_engine-main> npm run rarity
+
+> hashlips_art_engine@1.1.1 rarity
+> node utils/rarity.js
+
+Trait type: background
+{
+  trait: 'LosMuertos1',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos10',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos11',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos12',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos13',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos14',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos15',
+  weight: '1',
+  occurrence: '4 in 20 editions (20.00 %)'
+}
+{
+  trait: 'LosMuertos16',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos17',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos18',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos19',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos2',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos20',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'LosMuertos3',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos4',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos5',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos6',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos7',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'LosMuertos8',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos9',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+
+Trait type: babydoge
+{
+  trait: 'BabyDoge1',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge10',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge11',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge12',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge13',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge14',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge15',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge16',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge17',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'BabyDoge18',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge19',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge2',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge20',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge3',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge4',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge5',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge6',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge7',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge8',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge9',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+
+PS C:\Users\EHvi8\OneDrive\Desktop\1. My Web Projects 101\1. NFT Crypto Metaverse\1. Wall Street Memes 2.0\3. FOXY NFT Project\hashlips_art_engine-main> npm run generate
+
+> hashlips_art_engine@1.1.1 generate
+> node index.js
+
+(node:13368) [DEP0147] DeprecationWarning: In future versions of Node.js, fs.rmdir(path, { recursive: true }) will be removed. Use fs.rm(path, { recursive: true }) instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Created edition: 1, with DNA: 0002940076ce6ffee476993b0119977680fd13d6
+Created edition: 2, with DNA: 12d959e0df78848d79a22fdd7b7a4217fb736a86
+Created edition: 3, with DNA: 45ce123160374e56844da8160c7ce928cadb2dd2
+Created edition: 4, with DNA: 8b7e4dda6159e8e07b339ed6658741d0c576179e
+Created edition: 5, with DNA: 1d96e5208839476a77b18e740c6dff9d2237a124
+Created edition: 6, with DNA: ca2136fea7a72a34c2da77af12c600d934c07f1d
+Created edition: 7, with DNA: ded8594fd9eb0c1f78605e6e3331be6ef33728ab
+Created edition: 8, with DNA: b8589c15f3aed8c05c9e11babb19a8a0b541d2dd
+Created edition: 9, with DNA: 06ed7481e20443c797fe9bc1de825e6b21b664d5
+Created edition: 10, with DNA: b44984ba92d9b64b29f3c39521f0294c76d94ca5
+Created edition: 11, with DNA: 1879608874416d2e653eb92ee4d1d39c9d945d4d
+Created edition: 12, with DNA: 158d6f3473f89b93efb9dee44a89fa4941350007
+Created edition: 13, with DNA: 7979b6eb667f59ed4c3c7aa0a40cf443e1f1d0e9
+Created edition: 14, with DNA: 7b4992fcb661d90847c8703934313f8268eff7d2
+Created edition: 15, with DNA: a2ed503b78c553d512309a292513a6f5120347cd
+Created edition: 16, with DNA: d82141e7730ee24ea24c31a61885079e4ae6b5e4
+Created edition: 17, with DNA: 06d1bc30f938c424859861749ac8db79cee88108
+Created edition: 18, with DNA: 4314e2cde98805f708908ca94b299d21daa8baea
+Created edition: 19, with DNA: 0048d45d60817a80a1d0cf376346e92e209a0356
+Created edition: 20, with DNA: a6be606a5929ea865d446660246d090d5bf1f31b
+PS C:\Users\EHvi8\OneDrive\Desktop\1. My Web Projects 101\1. NFT Crypto Metaverse\1. Wall Street Memes 2.0\3. FOXY NFT Project\hashlips_art_engine-main> npm run rarity
+
+> hashlips_art_engine@1.1.1 rarity
+> node utils/rarity.js
+
+Trait type: background
+{
+  trait: 'LosMuertos1',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos10',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos11',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos12',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos13',
+  weight: '1',
+  occurrence: '3 in 20 editions (15.00 %)'
+}
+{
+  trait: 'LosMuertos14',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos15',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos16',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos17',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos18',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos19',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos2',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos20',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos3',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos4',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos5',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos6',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'LosMuertos7',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'LosMuertos8',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'LosMuertos9',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+
+Trait type: babydoge
+{
+  trait: 'BabyDoge1',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge10',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge11',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
+{
+  trait: 'BabyDoge12',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge13',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge14',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge15',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge16',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge17',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge18',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge19',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge2',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge20',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge3',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge4',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge5',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge6',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge7',
+  weight: '1',
+  occurrence: '1 in 20 editions (5.00 %)'
+}
+{
+  trait: 'BabyDoge8',
+  weight: '1',
+  occurrence: '0 in 20 editions (0.00 %)'
+}
+{
+  trait: 'BabyDoge9',
+  weight: '1',
+  occurrence: '2 in 20 editions (10.00 %)'
+}
