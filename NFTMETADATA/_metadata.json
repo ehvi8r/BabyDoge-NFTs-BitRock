@@ -2,7 +2,7 @@
   {
     "name": "BABYDOGE on BitRock #1",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/1.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/1.png",
     "dna": "0002940076ce6ffee476993b0119977680fd13d6",
     "edition": 1,
     "date": 1730667893732,
@@ -21,7 +21,7 @@
   {
     "name": "BABYDOGE on BitRock #2",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/2.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/2.png",
     "dna": "12d959e0df78848d79a22fdd7b7a4217fb736a86",
     "edition": 2,
     "date": 1730667893926,
@@ -40,7 +40,7 @@
   {
     "name": "BABYDOGE on BitRock #3",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/3.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/3.png",
     "dna": "45ce123160374e56844da8160c7ce928cadb2dd2",
     "edition": 3,
     "date": 1730667894165,
@@ -59,7 +59,7 @@
   {
     "name": "BABYDOGE on BitRock #4",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/4.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/4.png",
     "dna": "8b7e4dda6159e8e07b339ed6658741d0c576179e",
     "edition": 4,
     "date": 1730667894393,
@@ -78,7 +78,7 @@
   {
     "name": "BABYDOGE on BitRock #5",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/5.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/5.png",
     "dna": "1d96e5208839476a77b18e740c6dff9d2237a124",
     "edition": 5,
     "date": 1730667894621,
@@ -97,7 +97,7 @@
   {
     "name": "BABYDOGE on BitRock #6",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/6.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/6.png",
     "dna": "ca2136fea7a72a34c2da77af12c600d934c07f1d",
     "edition": 6,
     "date": 1730667894860,
@@ -116,7 +116,7 @@
   {
     "name": "BABYDOGE on BitRock #7",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/7.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/7.png",
     "dna": "ded8594fd9eb0c1f78605e6e3331be6ef33728ab",
     "edition": 7,
     "date": 1730667895112,
@@ -135,7 +135,7 @@
   {
     "name": "BABYDOGE on BitRock #8",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/8.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/8.png",
     "dna": "b8589c15f3aed8c05c9e11babb19a8a0b541d2dd",
     "edition": 8,
     "date": 1730667895507,
@@ -154,7 +154,7 @@
   {
     "name": "BABYDOGE on BitRock #9",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/9.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/9.png",
     "dna": "06ed7481e20443c797fe9bc1de825e6b21b664d5",
     "edition": 9,
     "date": 1730667895835,
@@ -173,7 +173,7 @@
   {
     "name": "BABYDOGE on BitRock #10",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/10.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/10.png",
     "dna": "b44984ba92d9b64b29f3c39521f0294c76d94ca5",
     "edition": 10,
     "date": 1730667896035,
@@ -192,7 +192,7 @@
   {
     "name": "BABYDOGE on BitRock #11",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/11.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/11.png",
     "dna": "1879608874416d2e653eb92ee4d1d39c9d945d4d",
     "edition": 11,
     "date": 1730667896224,
@@ -211,7 +211,7 @@
   {
     "name": "BABYDOGE on BitRock #12",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/12.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/12.png",
     "dna": "158d6f3473f89b93efb9dee44a89fa4941350007",
     "edition": 12,
     "date": 1730667896444,
@@ -230,7 +230,7 @@
   {
     "name": "BABYDOGE on BitRock #13",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/13.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/13.png",
     "dna": "7979b6eb667f59ed4c3c7aa0a40cf443e1f1d0e9",
     "edition": 13,
     "date": 1730667896634,
@@ -249,7 +249,7 @@
   {
     "name": "BABYDOGE on BitRock #14",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/14.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/14.png",
     "dna": "7b4992fcb661d90847c8703934313f8268eff7d2",
     "edition": 14,
     "date": 1730667896801,
@@ -268,7 +268,7 @@
   {
     "name": "BABYDOGE on BitRock #15",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/15.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/15.png",
     "dna": "a2ed503b78c553d512309a292513a6f5120347cd",
     "edition": 15,
     "date": 1730667896976,
@@ -287,7 +287,7 @@
   {
     "name": "BABYDOGE on BitRock #16",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/16.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/16.png",
     "dna": "d82141e7730ee24ea24c31a61885079e4ae6b5e4",
     "edition": 16,
     "date": 1730667897160,
@@ -306,7 +306,7 @@
   {
     "name": "BABYDOGE on BitRock #17",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/17.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/17.png",
     "dna": "06d1bc30f938c424859861749ac8db79cee88108",
     "edition": 17,
     "date": 1730667897369,
@@ -325,7 +325,7 @@
   {
     "name": "BABYDOGE on BitRock #18",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/18.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/18.png",
     "dna": "4314e2cde98805f708908ca94b299d21daa8baea",
     "edition": 18,
     "date": 1730667897536,
@@ -344,7 +344,7 @@
   {
     "name": "BABYDOGE on BitRock #19",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/19.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/19.png",
     "dna": "0048d45d60817a80a1d0cf376346e92e209a0356",
     "edition": 19,
     "date": 1730667897704,
@@ -363,7 +363,7 @@
   {
     "name": "BABYDOGE on BitRock #20",
     "description": "BABYDOGE on Bitrock Presale Collection",
-    "image": "ipfs://NewUriToReplace/20.png",
+    "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/20.png",
     "dna": "a6be606a5929ea865d446660246d090d5bf1f31b",
     "edition": 20,
     "date": 1730667897910,
