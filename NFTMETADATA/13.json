@@ -1,7 +1,7 @@
 {
   "name": "BABYDOGE on BitRock #13",
   "description": "BABYDOGE on Bitrock Presale Collection",
-  "image": "ipfs://NewUriToReplace/13.png",
+  "image": "https://raw.githubusercontent.com/ehvi8r/BabyDoge-NFTs-BitRock/main/NFTIMAGES/13.png",
   "dna": "7979b6eb667f59ed4c3c7aa0a40cf443e1f1d0e9",
   "edition": 13,
   "date": 1730667896634,
